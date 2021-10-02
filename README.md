@@ -7,7 +7,7 @@
 
 :outbox_tray: 2021 Goals: Find a new job.
 
-📫 How to reach me: derekbomfim
+📫 How to reach me: derekbomfim@hotmail.com
  
 
 ## About me
