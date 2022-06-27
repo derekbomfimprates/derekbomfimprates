@@ -5,7 +5,10 @@
 
 :house_with_garden: I’m from Brazil and I live in Dublin/Ireland.
 
-:outbox_tray: 2021 Goals: Find a new job.
+:outbox_tray: 2021 Goals: Find a new job - (:heavy_check_mark: 
+Information Technology Support Engineer at Intel).
+
+:outbox_tray: 2022 Goals: Find a job as software developer.
 
 📫 How to reach me: derekbomfim@hotmail.com
  
