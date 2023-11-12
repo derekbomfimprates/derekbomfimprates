@@ -8,7 +8,8 @@
 :outbox_tray: 2021 Goals: Find a new job - :heavy_check_mark: 
 Information Technology Support Engineer at Intel.
 
-:outbox_tray: 2022/2023 Goals: Find a job as software developer.
+:outbox_tray: 2022/2023 Goals: :heavy_check_mark: 
+Enroll in a master's program in data analytics
 
 📫 How to reach me: derekbomfim@hotmail.com
  
