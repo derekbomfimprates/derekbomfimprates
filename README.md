@@ -14,8 +14,8 @@ Become a Level 2 Information Technology Support Engineer.
 :outbox_tray: 2023 Goals: :heavy_check_mark: 
 Enroll in a master's program in data analytics
 
-:outbox_tray: 2024 Goals: 
-Work as a software engineer 
+:outbox_tray: 2024 - 2025 Goals: 
+Work as a software engineer / Data engineer
 
 📫 How to reach me: derekbomfim@hotmail.com
  
