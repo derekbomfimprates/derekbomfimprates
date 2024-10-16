@@ -1,7 +1,7 @@
 ## I'm Derek Prates
 
 
-:computer: I'm Front-End Developer, and I am studying Back-end and Database :books: !
+:computer: I'm a Data Analytics enthusiast, currently learning Data Engineering and Databases :books: !
 
 :house_with_garden: I’m from Brazil and I live in Dublin/Ireland.
 
